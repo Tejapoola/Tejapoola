@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I’m Tejapoola 👋
 
-<!--
-**Tejapoola/Tejapoola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 About Me
+- Software developer with a passion for building clean, maintainable applications.
+- Experienced in **Java**, **TypeScript**, and full-stack web dev.
+- Constantly learning new technologies and best practices.
 
-Here are some ideas to get you started:
+## 💼 Work & Projects
+Here are some of my public repositories:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Tech Stack | Description |
+|---|---|---|
+| SnakeGame | Java | A simple classic Snake game implementation. |
+| vehicle-service-hub-pro | TypeScript | A project related to vehicle service / management. |
+| forensic-insight-system | TypeScript | A system built to gather, analyze, or present forensic data (or “insight”). |
+
+*(Swipe through my repositories to explore more.)*
+
+## 🛠 Skills
+- **Languages:** Java, TypeScript, JavaScript  
+- **Frontend:** React (if used), or HTML / CSS / web basics  
+- **Backend / Tools:** Node.js (if used), version control (Git), etc.  
+- **Working style:** Problem solving, continuous improvement, writing readable code
+
+## 🌱 Always Learning
+- I’m diving deeper into advanced TypeScript features, design patterns, and scalable backend systems.  
+- Exploring best practices in testing, security, and clean code.
+
+## 📫 How to Reach Me
+- Feel free to [connect on GitHub](https://github.com/Tejapoola)  
+- Open to collaboration or new project ideas — always happy to help & learn.
+
+---
+
+“Code is a craft: every line tells a story.”  
+
